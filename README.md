@@ -1,4 +1,4 @@
-# Regresión Lineal por Mínimos Cuadrados
+# Ajuste de recta por medio de Regresión Lineal por Mínimos Cuadrados
 
 ## Autor
 Luis Javier Ontañón García Pimentel  
