@@ -1,7 +1,7 @@
 # Regresión Lineal por Mínimos Cuadrados
 
 ## Autor
-Luis Javier Ontañón García Pimentel
+Luis Javier Ontañón García Pimentel;
 Coordinación Académica Región Altiplano Oeste, Universidad Autónoma de San Luis Potosí
 
 ## Resumen de la actividad
