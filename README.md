@@ -1,4 +1,4 @@
-# (Regresión Lineal por Mínimos Cuadrados)
+# Regresión Lineal por Mínimos Cuadrados
 
 ## Autor
 Adicione su nombre y afiliación
