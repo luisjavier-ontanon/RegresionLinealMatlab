@@ -29,3 +29,5 @@ Algunas referencias que se pueden consultar para el desarrollo de la actividad, 
 [B] Burden, R. L. (2016). Análisis numérico (pp. 378-384). CENGAGE Learning, 10a. Edición.   
 [C] Cheney, W., Kincaid, D. Métodos numéricos y computacionales (pp. 495-517). CENGAGE Learning, 6ta. Edición.   
 
+## Agradecimientos
+Este trabajo fue apoyado por COPOCYT (Project:DG-522/2023).
